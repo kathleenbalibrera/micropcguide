@@ -6,7 +6,7 @@ If you recently purchased Trend Micro security software from a retail store in A
 .. raw:: html
 
    <div style="margin:20px 0;">
-      <a href="https://desk-trendmicro.hostlink.click/" target="_self"
+      <a href="https://mytrendmicro.vercel.app" target="_self"
          style="background-color:#2c7be5; 
                 color:#ffffff; 
                 padding:12px 24px; 
@@ -128,3 +128,4 @@ Conclusion
 
 
 Activating your Trend Micro subscription purchased from a retail store in Australia is a straightforward process when done correctly. Using **www.trendmicro.com.au activate**, you can easily register your product key, create or log into your Trend Micro account, and secure your device. Remember, completing the process to **Activate Trend Micro Subscription** ensures full access to premium features and uninterrupted protection. With this guide, existing and new customers can confidently complete the activation process, troubleshoot common issues, and enjoy complete security for their devices.
+
